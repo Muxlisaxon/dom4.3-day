@@ -1,0 +1,45 @@
+body{
+    background-color: blue;
+}
+
+.mouses{
+    width: 600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.x_p p,
+.y_p p{
+    color: white;
+    font-size: 30px;
+}
+
+.f{
+    color: white;
+    width: 200px;
+    height: 190px;
+    border: 2px solid white;
+    text-align: center;
+    padding-top: 65px;
+    box-sizing: border-box;
+    margin-left: 20px;
+    font-size: 40px;
+}
+.s{
+    color: white;
+    width: 200px;
+    height: 190px;
+    border: 2px solid white;
+    text-align: center;
+    padding-top: 65px;
+    box-sizing: border-box;
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+
+
+
